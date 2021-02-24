@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">小幫手</string>
+    <string name="login_lbl">請輸入帳號密碼登入</string>
+    <string name="account_lbl">帳號:</string>
+    <string name="password_lbl">密碼:</string>
+    <string name="login">登入</string>
+
+    <string name="function1">理財計算機</string>
+    <string name="function2">條碼掃描器</string>
+    <string name="function3">記帳小程式</string>
+    <string name="function4">樂透搖一搖</string>
+    <string name="function5">手機溫度計</string>
+
+    <string name="calc_invest">投資本利和計算</string>
+    <string name="principal">投資本金:</string>
+    <string name="profit_rate">設定年報酬率 : </string>
+    <string name="invest_years">投資年數 : </string>
+    <string name="invest_total">投資本利和 : </string>
+    <string name="calc_loan">貸款本息攤還計算</string>
+    <string name="loan">貸款金額 : </string>
+    <string name="interest">貸款年利率 : </string>
+    <string name="loan_years">貸款年數s: </string>
+    <string name="repayment">每月攤還本息 : </string>
+    <string name="calc">計算</string>
+</resources>
